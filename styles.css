@@ -1,0 +1,22 @@
+h1 {
+  color: #84482d;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5em;
+  color: #1c1d1f;
+}
+
+#images {
+  display: flex;
+  justify-content: space-around;
+  border: 2px solid #be6841;
+  padding: 20px;
+}
+
+#images img {
+  width: 150px;
+  margin: 10px;
+}
